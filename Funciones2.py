@@ -1,5 +1,5 @@
 #Create by
-#REBECA HC
+#REBECA HCr
 import os
 import time
 def tabla():
